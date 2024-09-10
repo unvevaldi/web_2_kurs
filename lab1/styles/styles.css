@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+.menu_head{
+    font-size: 1.3rem;
+    font-weight: 700;
+    text-align: center;
+
+}
+.footer1{
+    background-color: #FF5C00;
+}
+
+ a{
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #274E7D;
+    text-decoration: none;
+  }
